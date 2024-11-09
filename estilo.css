@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: white;
+}
+body{
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 30vw;
+    height: 80vh;
+    padding: 1rem;
+    margin: 6rem;
+    margin-left: 40rem;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
